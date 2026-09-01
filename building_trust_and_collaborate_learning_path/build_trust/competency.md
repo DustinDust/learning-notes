@@ -6,7 +6,7 @@
   - Grow expertise continuously, pick 1 skill per quarter/year and make a plan to improve it.
   - Keep 1:1 ratio between say and do, if you promise something (even casual one like "I'll get back to you") - actually follow up, put it on calendar so you dont forget.
   - Set results-focused goal, not activity-based one. eg: for recruiter, "hours worked" is activity, but "hire qualified candidate" is result. break it into milestone like: post to 20 job board, get 10 resume, interview 5 people.
-  - Promote your own work a little, she share embarrassing story about missing "elevator pitch" moment with her Dean, after that she start keeping a "weekly brag bite" ready to share.
+  - Promote your own work a little, she share embarrassing story about missing "elevator pitch" moment with her Dean, after that she start keeping a "weeklyjk brag bite" ready tojj share.
   - Over communicate, specially in remote setting. small update like "on it" or "grading's done" go a long way, compare to someone who just silently does the work (even if equally competent, they earn less trust because manager cant tell whats happening).
   - Touch base with a cadence that fit your work type, some team need daily/weekly check in, other (like project based work) only need touch point at milestone.
 
