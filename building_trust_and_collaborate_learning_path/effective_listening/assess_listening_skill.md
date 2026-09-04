@@ -1,7 +1,5 @@
 ## 1. Five skills for improved listening
 
-**Summary**
-
 Intro video, ask you to self rank 5 listening skill/intention from 1 (best) to 5 (weakest) before course dive into each one:
 
 1. recalling detail: remembering name, date, specific info (good at Trivial Pursuit type thing)
@@ -108,3 +106,12 @@ How to do it:
 
 - Overlaps a lot with "Listen and empathize" section from Building Trust course (same author/style even)
 - One of a few difficult things for me. Sometimes I tend to be too confrontational.
+
+### 7. When and how to listen
+
+This section basically the "putting it together" wrap up for section 1 - point is knowing the 5 listening type isnt enough, you also need to pick the _right_ one for the situation, or you miss out even if your actually skilled at that type.
+
+**Notes**
+
+- good closing section, ties whole section 1 together. The actual skill isnt just "being good at all 5 types" its knowing _when_ to deploy which one(s)
+- "default listening style" point interesting, makes me think about what my own default is probably detail recall, i tend to focus on the "what do i need to do" part and skip the "why" part
